@@ -1,8 +1,8 @@
 ### Hi, I'm Jessika 👋
 
-- 🔭 Atualmente trabalho com back-end com Java.
-- 🌱 Estou focada estudando Java e seu framework Spring.
-- 😄 Me identifico como ela/she
+- 🔭 Nowadays, I work like backend developer.
+- 🌱 I study Java and your framework Spring.
+- 😄 My pronoun is she
 
 <div>
   <a href="https://githb.com/JessikaFujimura">
